@@ -24,9 +24,7 @@ To solve this problem, we can use a straightforward SQL query to filter the `Pro
 SELECT product_id
 FROM Products
 WHERE low_fats = 'Y' AND recyclable = 'Y';
-```
-```
-```
+
 ```
 
 
